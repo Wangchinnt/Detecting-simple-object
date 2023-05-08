@@ -69,4 +69,7 @@ https://user-images.githubusercontent.com/66167308/236725606-9a9ef7b7-5b27-40ff-
 
 WuangChin - https://www.facebook.com/wangchinn.t - tachien2003@gmail.com
 
+### Acknowledgements
+This project was inspired by [Tutorial on Detecting Color using OpenCV and Python](https://pysource.com/2019/02/15/detecting-colors-hsv-color-space-opencv-with-python)
+
 
