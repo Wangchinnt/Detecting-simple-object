@@ -1,5 +1,13 @@
+# This is a tool that u can use to pick any color in HSV color space by using HSV color code 
+# Step1: Run the file
+# Step2: Choose the code of the color u want to get
+# Result: Color will be displayed in screen
+
+
 import cv2
 import numpy as np
+
+
 
 # Create a blank image
 image = np.zeros((300, 512, 3), np.uint8)
