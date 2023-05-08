@@ -5,9 +5,9 @@ Here is our project for the Digital Image Processing course:
 - We also provide tools such as getting an object's color and picking a color in the HSV color space
 ### KeyPoint
 #### 1. Steps involved:
-i.Detect the object in the real-time
+i.Detect the object in the real-time.
 
-ii.Track the object as it moves around in real time. Draw a rectangle around it
+ii.Track the object as it moves around in real time. Draw a rectangle around it.
 #### 2. Assumptions:
 1. There is an object in real-time.
 
