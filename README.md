@@ -28,7 +28,7 @@ ii.Track the object as it moves around in real time. Draw a rectangle around it.
 - [21021470-Đồng Văn Dương](https://github.com/Rouxxs) (15%)
 - [21020187-Phạm Anh Đức](https://github.com/anhduc291203) (15%)
 - [21020623-Nguyễn Đức Hải](https://github.com/DucHai972) (15%)
-- [21020251-Trần Hoàng Vũ](https://github.com) (15%)
+- [21020251-Trần Hoàng Vũ](https://github.com/Vuxz123) (15%)
 ### Requirements: (with versions we tested on)
 - #### python(3.11.1)
 - #### opencv(4.7.0)
