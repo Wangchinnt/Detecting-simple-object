@@ -1,4 +1,4 @@
-# Detecting simple object using Opencv
+# Detecting simple objects using Opencv
 ### Description
 Here is our project for the Digital Image Processing course:
 - Amazing simple object detection based on its color(in this case objects are Rubiks, Oranges, pill bottles)
