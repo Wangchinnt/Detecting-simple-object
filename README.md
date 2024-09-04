@@ -5,19 +5,19 @@ Here is our project for the Digital Image Processing course:
 - We also provide tools such as getting an object's color and picking a color in the HSV color space
 ### KeyPoint
 #### 1. Steps involved:
-i.Detect the object in the real-time.
+i.Detect the object in the real time.
 
-ii.Track the object as it moves around in real time. Draw a rectangle around it.
+ii. Track the object as it moves around in real time. Draw a rectangle around it.
 #### 2. Assumptions:
-1. There is an object in real-time.
+1. There is an object in real time.
 
-2. The object is the largest color object in real-time.
+2. The object is the largest color object in real time.
 
 3. We can specify the desired size of the rectangle of the object's boundary.
 
 4. HSV color space is used to detect the object. Hence we convert the input RGB image to HSV color space.
 
-5. The script is suitable for real-time tracking as it has a very good frame rate (>32 FPS).
+5. The script is suitable for real-time tracking as it has an excellent frame rate (>32 FPS).
 
 6. The object can be partially occluded and our script will still successfully track the ball.
 
@@ -53,11 +53,11 @@ https://user-images.githubusercontent.com/66167308/236725592-c4b30b7a-0b3e-4cdd-
 https://user-images.githubusercontent.com/66167308/236725606-9a9ef7b7-5b27-40ff-b2dc-4aa43b226fc7.mp4
 
 ### The limitations
-1.There are certain objects that we can't detect because their color are quite mixed.
+1. There are certain objects that we can't detect because their color is quite mixed.
 
-2.Need to update the script if want to track a object of different color
+2. Need to update the script if you want to track an object of a different color
 
-3.In order to detect the object with the color we want, we need to have a high quality input as well as get the correct range of that color in the HSV color space.
+3. In order to detect the object with the color we want, we need to have high-quality input as well as get the correct range of that color in the HSV color space.
 
 ### Contact
 
